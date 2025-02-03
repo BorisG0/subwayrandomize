@@ -1,0 +1,66 @@
+Bread
+italian
+flatbread
+multigrain
+italian herbs & cheese
+jalapeno cheddar
+monterey cheddar
+parmesan oregano
+wrap
+
+Meat
+bacon
+capicola
+grilled chicken
+chicken teriyaki
+turkey
+egg omelet
+salami
+ham
+meatball marinara
+pastrami
+pepperoni
+roast beef
+rotisserie-style chicken
+steak
+tuna
+turkey breast
+veggie patty
+
+Cheese
+american
+cheddar
+mozzarella
+shredded blend
+pepperjack
+provolone
+
+Vegetables
+green peppers
+olives
+cucumbers
+jalapeno
+lettuce
+onions
+pickles
+sliced avocado
+smashed avocado
+spinach
+tomatoes
+
+Sauces
+chipotle
+bbq
+siracha
+buffalo
+giardiniera
+honey mustard
+mayo
+mustard
+oil
+ranch
+sweet onion
+vinegar
+aioli
+salt
+pepper
