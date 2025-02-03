@@ -41,17 +41,18 @@ if plus_bacon:
 
 # cheese
 cheese = random.choice(ingredients['Cheese'])
-sandwich += ' and ' + cheese + ' cheese'
+sandwich += ' and ' + cheese + ' cheese, '
 
 # toast
 toasted = random.choice([True, False])
 if toasted:
-    sandwich += ', toasted'
-
+    sandwich += 'toasted'
+else:
+    sandwich += 'untoasted'
 # vegetables
 vegetables = random.sample(ingredients['Vegetables'], random.randint(0, len(ingredients['Vegetables'])))
 if vegetables:
-    sandwich += ' with '
+    sandwich += ', with '
     for i, vegetable in enumerate(vegetables):
         if i == len(vegetables) - 1:
             sandwich += 'and ' + vegetable
