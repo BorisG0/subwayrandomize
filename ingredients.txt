@@ -9,7 +9,6 @@ parmesan oregano
 wrap
 
 Meat
-bacon
 capicola
 grilled chicken
 chicken teriyaki
@@ -28,6 +27,7 @@ turkey breast
 veggie patty
 
 Cheese
+no
 american
 cheddar
 mozzarella
@@ -48,7 +48,8 @@ smashed avocado
 spinach
 tomatoes
 
-Sauces
+Sauce
+no
 chipotle
 bbq
 siracha
